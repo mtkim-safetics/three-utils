@@ -1,0 +1,13 @@
+{
+  "name": "three-utils",
+  "version": "1.0.0",
+  "description": "three.js utils",
+  "main": "index.js",
+  "repository": "https://github.com/mtkim-safetics/three-utils.git",
+  "author": "mtkim <mtkim@safetics.io>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
